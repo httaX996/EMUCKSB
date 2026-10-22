@@ -10,11 +10,7 @@
     "restart": "pm2 restart CK-BOT"
   },
   "keywords": [
-    "whatsapp",
-    "bot",
-    "baileys",
-    "plugin",
-    "danuzz"
+    "ck"
   ],
   "author": "Chethmina",
   "license": "MIT",
