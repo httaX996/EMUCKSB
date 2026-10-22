@@ -22,7 +22,7 @@ module.exports = {
     ALWAYS_OFFLINE: bool(process.env.ALWAYS_OFFLINE, 'false'),
 
     CONNECTED_IMAGE: process.env.CONNECTED_IMAGE || 'https://i.ibb.co/fd7v5197/6xs-BKLp911.jpg',// optional image URL for the connected message
-    IMG: process.env.IMG || 'https://i.ibb.co/fd7v5197/6xs-BKLp911.jpg',
+    IMG_URL: process.env.IMG_URL || 'https://i.ibb.co/fd7v5197/6xs-BKLp911.jpg',
     TIMEZONE: process.env.TIMEZONE || 'Asia/Colombo',
 
     // ── Server ────────────────────────────────────────────────
